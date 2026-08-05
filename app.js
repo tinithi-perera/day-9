@@ -14,3 +14,6 @@ console.log(result3);
 let result4 = subtract(5, 3);
 console.log(result4);
 
+import student from './student.js';
+let student1 = new student("sam","20","kegalle");
+console.log(student1);
